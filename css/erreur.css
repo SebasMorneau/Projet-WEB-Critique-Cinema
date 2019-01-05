@@ -1,0 +1,22 @@
+body{
+	background: url("images/loginWallpaper.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#pErreur{
+	
+	text-align: center;
+    color:red;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 100px;
+    border: 2px solid white;
+    padding: 8px 16px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: black;
+
+
+}

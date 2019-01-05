@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<langText>
+	<index>
+		<title>Cinéma Critique</title>
+		<sectionTitle>Cinéma Critique</sectionTitle>
+		<h1>Cinéma Critique</h1>
+		<connexion>Connexion</connexion>
+		<register>S'inscrire</register>
+		<h2>Nouveau ici?</h2>
+		<home>Accueil</home>
+		<search>Recherche</search>
+		<love>Favoris</love>
+		<write>Publier</write>
+		<about>À propos</about>
+		<logout>Déconnecter</logout>
+	</index>
+	
+	<services>
+		<sectionIci></sectionIci>
+	</services>
+	
+</langText>

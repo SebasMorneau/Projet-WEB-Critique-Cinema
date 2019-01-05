@@ -1,0 +1,72 @@
+body{
+	background: url("images/loginWallpaper.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.sectionAuthentification{
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 390px;
+    opacity: 0.7;
+    font-family: Verdana,Geneva,sans-serif;
+ }
+
+ #bouton, #boutonretour{
+ 	background-color: black;
+    border:white;
+ 	border-style:solid;
+    color: white;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer		
+ }
+
+ #bouton:hover, #boutonretour:hover{
+ 	background-color: white;
+ 	color:black;
+ 	border:black;
+ 	border-style:solid;
+ }
+
+ .confirmation{
+    margin-bottom: 100px;
+ }
+#pErreur{
+    color:red;
+    text-align: center;
+    font-family: Verdana,Geneva,sans-serif;
+}
+.boutonLang {
+    opacity: 0.9;
+    display: none;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Verdana,Geneva,sans-serif; 
+}
+.boutonLang:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}

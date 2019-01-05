@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<langText>
+	<index>
+		<title>MovieCritics</title>
+		<h1>Connect to Movie Critics</h1>
+		<connexion>Log in</connexion>
+		<register>Register</register>
+		<h2>New?</h2>
+		<home>Home</home>
+		<search>Search</search>
+		<love>Favorite</love>
+		<write>Write</write>
+		<about>About</about>
+		<logout>Log out</logout>
+	</index>
+	
+	<services>
+		<sectionIci></sectionIci>
+	</services>
+	
+</langText>

@@ -1,0 +1,147 @@
+body{
+	background: url("images/loginWallpaper.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Verdana,Geneva,sans-serif;
+}
+
+h1{
+	color:white;
+	text-align: center;
+}
+
+.menu ul{
+	list-style:none;
+    position:relative;
+    background-color: black;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 1px;	
+    border-color: grey;
+
+}
+#editAdmin{
+
+    text-align: right;
+    cursor: pointer;
+}
+#deleteAdmin{
+    text-align: right;
+    cursor: pointer;
+}
+
+.menu ul li {
+
+
+    float:left;
+    position:relative;
+    left:15%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    width: 8%;
+    text-align: center;
+    padding: 26px;
+
+    border:white;
+ 	border-style:solid;
+ 	
+    color: white;
+
+    text-decoration: none;
+  
+    cursor: pointer
+
+
+}
+.menu ul li:hover{
+	border-color: black;
+	color: black;
+	background-color: white;
+}
+
+.boiteEcrire{
+	display: none;
+    margin:auto;
+    width:83%;
+}
+#ckEditor{
+    display: none;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.ecritureCritique{
+    text-align: center;
+    height: 120px;
+    border-style:solid;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#inputTexteCritique{
+    width: 50%;
+    text-align: center;
+}
+#textEcrire{
+    width: 90%;
+}
+#imageJointe{
+    width: 100%;
+}
+
+.feed{
+	opacity: 0.9;
+	background-color: black;
+	margin:auto;
+	width:70%;
+	height: 100%;
+	color:white;
+    border-radius: 5px;
+}
+
+
+.critique{
+	color:white;
+    margin: auto;
+	margin-top: 10px;
+	padding: 15px;
+    width: 50%;
+    height: 50%;
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+.critique a{
+	text-align: right;
+}
+
+.etoile{
+    width: 20px;
+    height: 20px;
+}
+
+#formRecherche{
+    color:white;
+    margin:auto;
+    width: 50%;
+}
+#formRecherche button{
+    cursor: pointer;
+    color:white;
+    background-color: black;
+    border-color:white;
+}
+#PageApropos{
+    padding-left: 5px;
+    font-size: 30px;
+    margin:auto;
+    width: 50%;
+    height: 700px;
+    color:white;
+    background-color: black;
+    border-color:white;
+
+}
